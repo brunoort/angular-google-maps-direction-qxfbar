@@ -1,0 +1,7 @@
+<h1>Angular Google Maps Direction (agm-direction) TEST</h1>
+
+<agm-map [latitude]="lat" [longitude]="lng">
+  <agm-direction *ngIf="dir" [origin]="dir.origin" [destination]="dir.destination"></agm-direction>
+</agm-map>
+ 
+<button type="button" (click)="getDirection()">Get</button>
