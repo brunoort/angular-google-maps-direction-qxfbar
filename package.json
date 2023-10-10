@@ -7,7 +7,7 @@
     "core-js": "2.5.1",
     "zone.js": "0.8.20",
     "@agm/core": "1.0.0-beta.2",
-    "@angular/core": "5.2.8",
+    "@angular/core": "10.2.5",
     "agm-direction": "0.3.7",
     "@angular/forms": "5.2.8",
     "@angular/common": "5.2.8",
